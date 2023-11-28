@@ -1,7 +1,7 @@
 ## Spring Boot CRUD Application
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using Spring Boot. The application allows users to perform basic CRUD operations on entities, demonstrating the use of Spring Boot for developing robust and scalable web applications.
-## Dependenices user:
+## Dependenices used:
 Mysql server
 thymleaf
 sprinweb
